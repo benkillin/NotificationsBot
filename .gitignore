@@ -1,0 +1,6 @@
+.gogradle
+vendor
+BotConfig.json
+NotificationsBot
+NotificationsBot.termoutput.log
+.gradle

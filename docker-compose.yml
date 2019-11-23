@@ -1,0 +1,13 @@
+version: "3.0"
+
+services:
+  notificationsbot:
+    build: .
+    image: notificationsbot
+    deploy:
+      replicas: 1
+      restart_policy:
+        condition: on-failure
+    volumes:
+      - ${PWD}/BotConfig.json:/opt/NotificationsBot/bin/BotConfig.json
+

@@ -1,0 +1,180 @@
+1	Aish merahrah	Flatbread	Made with fenugreek seeds and maize; dough allowed to ferment overnight, then flattened and baked.
+2	Ajdov kruh	Buckwheat bread	Made with buckwheat flour and potato.[1]
+3	Anadama bread	Yeast bread	A sweet, cornmeal- and molasses-based bread.
+4	Anpan	Sweet bun	Filled, usually with red bean paste, or with white beans, sesame, or chestnut.
+5	Appam	Varies widely	Bowl-shaped thin pancakes, made of fermented rice flour, shaped via cooking utensil, neutral taste, served usually with spicy condiment or curry, for breakfast or dinner.
+6	Arepa	Cornbread	Dish made of ground corn dough or cooked corn flour, similar to Mesoamerican tortilla and Salvadoran pupusa.
+7	Baba	Various thick, round breads	Round, thick bread, often with various sweet or savoury fillings.
+8	Bagel	Yeast bread	Ring-shaped, usually with a dense, chewy interior; usually topped with sesame or poppy seeds baked into the surface.
+9	Baguette	Yeast bread	Thin elongated loaf, made of water, flour, yeast, and salt, instantly recognizable by slits cut in top surface before baking to allow gas expansion.
+10	Bakarkhani	Flatbread	Thick,sweet or spicy flatbread made of Dough, ghee, milk, sugar.Mostly consumed as snacks and also in iftar.
+11	Balep korkun	Flatbread	Round, flat, easy to make, made of barley flour, water, baking powder, cooked in frying pan; Balep Korkun is a type of bannock.
+12	Bammy	Flatbread	Made by frying a mix of cassava root and salt in coconut oil, dipped in coconut milk and then refried.
+13	Banana bread	Sweet bread	Dense, made with mashed bananas, often a moist, sweet, cake-like quick bread, but some recipes are traditional yeast breads.
+14	Bannock	Flatbread	Modern types are made with baking soda or baking powder as leavening agent, giving a light, airy texture. May be baked or fried. Some Native American peoples in North America prepare their own versions of bannock.
+15	Bara Brith	Fruit bread	Sometimes termed "speckled bread", raisins, currants and candied peel are added to dough.
+16	Barbari bread	Flatbread	Invented by the Barbar tribes of Iran and northern Afghanistan.
+17	Barm cake	Yeast bread	Soft sweet roll. Derived from ancient pre-Roman leavening process using barm. Pictured is barm cake with black pudding and melted butter.
+18	Barmbrack	Yeast bread	Sweeter than sandwich bread, but less rich than cake, contains sultanas and raisins to add texture.
+19	Bastone	Yeast bread	Shorter and thicker than a French baguette. Sometimes with sesame seed garnish.
+20	Bazin	Flatbread	Prepared with barley, water and salt.
+21	Bazlama	Flatbread	Flat and circular, average thickness of 2 cm, usually eaten fresh.
+22	Beer bread	Quick or yeast bread	Made with regular beer or other types such as stout or dark beer.
+23	Belgian waffle	Waffle	A type of waffle popular in North America and in Belgium. Compared to the standard American waffle, it is identified by its larger size, lighter batter, larger squares, and a higher grid pattern that forms deep pockets.
+24	Bhakri	Flatbread	Usually grayish in colour, made of cereals and thus high in protein and fibre like Jowar, Bajra or Maize.
+25	Bialy	Yeast bread	Similar to a bagel, but instead of a hole it has only a dimple on top, which is filled with a bit of butter and diced onion or garlic. Known as a cebularz in Poland.
+26	Bing	Flatbread	Similar to a Mexican tortilla, only much thicker; usually cooked on a griddle.
+27	Biscotti	Biscuit	Italian almond biscuits that are twice-baked, oblong-shaped, dry, crunchy, and may be dipped in a drink, traditionally Vin Santo.
+28	Biscuit	Quick bread although sometimes made with yeast	This refers to the North American quick bread, generally light and fluffy (similar to a scone. Elsewhere the term biscuit means a small baked product that would be called either a "cookie" or a "cracker" in the United States and most of English-speaking Canada.
+29	Blaa	Bun	Doughy, white bread bun (roll) specialty; particularly associated with Waterford, Ireland. Currently made in Waterford and County Kilkenny, and was historically made in Wexford.
+30	Black bread	Rye	Made of rye grain, usually dark colored and high fiber, ranges from crispy in texture to dense and chewy.
+31	Bolani	Flatbread	Has a very thin crust and can be stuffed with a variety of ingredients, such as potatoes, spinach, lentils, pumpkin, or leeks.
+32	Bolo do caco	Flatbread	A circular flatbread made with sweet potatoes.
+33	Borlengo	Pancake	A thin crepe now made with milk, eggs (sometimes omitted), flour and salt. Originally a food eaten by the poor and made with flour and water.
+34	Borodinsky	Sourdough	A dark brown sourdough rye bread, traditionally sweetened with molasses and flavored with coriander and caraway seeds.
+35	Boule	Yeast bread	From the French for "ball".
+36	Bread roll	Bun	Short, oblong or round, served usually before or with meals, often with butter.
+37	Breadstick	Dry bread	A dry bread formed into sticks, served as an appetizer.
+38	Brioche	Yeast bread, Sweet	A highly enriched bread, noted for its high butter and egg content, commonly served as a component of French desserts.
+39	Brioche bun	Yeast bread, Sweet, Bun	A highly enriched bun, noted for its high butter and egg content, commonly served as a component of French desserts.
+40	Broa	Cornbread	Unlike the cornbread typical of the southern United States, made of mix of cornmeal and wheat or rye flour, leavened with yeast rather than baking powder or baking soda.
+41	Brown bread	Rye or wheat bread	Made with a significant amount of whole grain flour, usually rye or wheat; sometimes made with molasses or coffee. Also known as "wholemeal bread".
+42	Bublik	Wheat bread	Made from yeast-leavened wheat dough that commonly contains milk, butter, and egg whites and is rather sweet.
+43	Canadian White	White	A thick, protein-rich sliced sandwich bread.
+44	Carrot bread	Leavened	May be prepared with grated carrot[3] or carrot juice.[4] Pictured is a vegan carrot bread with raisins.
+45	Česnica	Soda bread	Baked during Christmas season with a solid silver coin in the dough for good luck; the family member whose bread piece contains the coin is viewed as the most fortunate for that year.
+46	Challah	Leavened	Braided, made with wheat flour, yeast, oil/butter and eggs (optional), usually made by Jewish people for the Shabbat.
+47	Chapati	Flatbread	Thin in size and made with wheat flour; usually eaten with cooked dal (lentil soup), vegetable curry, chicken and mutton curry dishes; pieces are used to wrap around and pick up each bite of the cooked dish.
+48	Chickpea bread	Leavened	Made from chickpea flour. The most significant difference of this type of bread is, instead of using regular yeast, they use a yeast made with chickpeas.
+49	Cholermüs	Pancake	Also known as a "Swiss pancake", as its name self-explains, a Swiss pancake, or "shredded, fried crepe," is a breakfast pancake with dried fruit filling. This preparation should not be confused with Hollermus, or Holdermus, which is an elderberry mash.
+50	Christmas wafer	Crispy bread	Christmas wafers are a ceremonial bread, usually embossed with images of Christian figures, such as Jesus or the Virgin Mary.
+51	Ciabatta	White	Loaf is somewhat elongated, broad and flattish and, like a slipper, should be somewhat collapsed in the middle.
+52	Coppia Ferrarese	Sourdough	Twisted in shape. Sourdough bread made with flour, lard, olive oil, and malt.
+53	Cornbread	Cornbread	Made from cornmeal, can be baked or fried, has a golden appearance, usually has a moist interior.
+54	Cottage loaf	Yeast bread	Name refers mostly to shape of loaf, not consistency, loaves are made when larger and smaller roughly spherical balls are squashed together, forming a cottage shape.
+55	Cracker	Crispy bread	A baked good typically made from a grain and flour, dough and usually manufactured in large quantities. Crackers (roughly equivalent to savory biscuits in the United Kingdom and the Isle of Man) are usually flat, crisp, small in size (usually 3 inches or less in diameter) and made in various shapes, commonly round or square.
+56	Crêpe	Pancake	Extremely thin pancakes, can be stuffed with cheese, asparagus, ham, spinach, eggs, ratatouille, mushrooms, artichoke, or meat products. In Canada, they are often filled with fruit and consumed as a breakfast dish.
+57	Crisp bread	Crispy bread	Very dry, traditionally consists of wholemeal rye flour, salt, and water.
+58	Croutons	Crispy bread	A piece of sautéed or rebaked bread, often cubed and seasoned, that is used to add texture and flavor to salads, notably the Caesar salad, as an accompaniment to soups, or eaten as a snack food. The word crouton is derived from the French croûton, itself derived from croûte, meaning "crust". Most people consider croutons to come invariably in the shape of small cubes, but they can actually be of any size and shape, up to a very large slice.
+59	Crumpet	Flatbread	Usually circular and flat, but thick, with pores in upper surface. This gives it a light, spongy texture.
+60	Cuban bread	Yeast bread, White	A fairly simple white bread, similar to French bread and Italian bread, but has a slightly different baking method and ingredient list.
+61	Curry bread	Bun	Some Japanese curry is wrapped in a piece of dough, which is coated in flaky bread crumbs, and usually deep fried or baked.
+62	Damper	Soda bread	Made of a wheat flour, traditionally baked in the coals of a campfire; iconic Australian dish.
+63	Dampfnudel	Sweet bread, White	Usually dense and moist with a white top surface.
+64	Dorayaki	Pancake	Japanese confection, which consists of two small pancake-like patties made from castella, wrapped around a filling of sweet Azuki red bean paste.
+65	Dosa	Pancake	Fermented crêpe or pancake made from rice batter and black lentils. It is also served with variety of fillings like potato, coconut, paneer, vegetables, dry fruits etc.
+66	Eggette	Pancake	Spherical pancake or ball waffle popular in Hong Kong and Macao. The food item is also referred to as an egg puff, egg waffle, puffle or by its Cantonese name, gai daan jai, and is made from eggs, sugar, flour, and light evaporated milk.
+67	English muffin	Yeast bread	Small, round, thin, usually dusted with cornmeal and served split horizontally, toasted, buttered, eaten as a snack alone or part of meal, usually breakfast or, in the UK and Ireland, early-evening tea. In the UK, usually just called a "muffin".
+68	Farl	Flatbread	Made by spreading dough on a griddle or skillet in a rough circular shape, then cutting it into four equal pieces and cooking.
+69	Filone	Leavened	Similar to a French baguette.
+70	Flatbread	Flatbread	Bread that is flat in shape, often round in shape.
+71	Flatbrød	Flatbread	Traditional food, usually eaten with fish, salted meats and soups.
+72	Flatkaka	Flatbread, Rye	Soft, round, thin and dark with a characteristic pattern from the frying pan; traditionally fried in small, heavy cast iron frying pans.
+73	Focaccia	Yeast bread	Often punctured or dotted with a knife to relieve surface bubbling.
+74	Fougasse	Yeast bread	Some versions are sculpted or slashed into a pattern resembling an ear of wheat.
+75	Green onion pancake	Flatbread	Savory, non-leavened flatbread folded with oil and minced scallions (green onions). Unlike a true pancake, it is made from dough instead of batter.
+76	Hallulla	Flatbread	Round, baked with butter, used for Chilean aliados: cheese and ham sandwich.
+77	Hardebrood	Flatbread, White	Dry white flat bread, consisting of two layers, each as thick as an American pancake, that are connected at the dents.
+78	Hardtack	Flatbread, Crispy	Simple type of cracker or biscuit, made from flour, water, and sometimes salt.
+79	Himbasha	Flatbread	Celebratory, slightly sweet, often served at special occasions, several varieties, most distinctive flavoring is ground cardamom seeds.
+80	Hot and spicy cheese bread	Yeast bread	Made from a brioche-like yeasted dough, mixed with Provolone cheese, Monterey Jack Cheese, and topped with crushed hot red peppers.
+81	Injera	Flatbread	Risen with a fermented starter with unique, slightly spongy texture, traditionally made of teff flour.
+82	Johnnycake or Hoecake	Flatbread	Fried gruel made of yellow or white cornmeal, mixed with salt, hot water or milk; sometimes sweetened; probable origin: Native Americans.
+83	Ka'ak	Leavened	Varies with bread rings and sweets.
+84	Kalach	Yeast bread	Kettlebell-shaped or ring-shaped bread.
+85	Kaya toast	Toast	Prepared with kaya (coconut jam), a topping of sugar, coconut milk and eggs, pandan, and sometimes margarine or butter. Kaya is generally served on toast, and also sometimes on crackers. It is considered a breakfast staple, and remains popular in Singapore. The dish is sometimes dipped into soft-boiled eggs.
+86	Khakhra	Flatbread, Crispy	Common Gujarati food, resembling roti or chapati in its round shape, but crispy and dry.
+87	Khanom bueang	Flatbread, Crispy	Common Thai street food, resemble tacos made of rice flour, usually first topped or filled with coconut cream, then sweet or savory toppings: shredded coconut, strips of fried eggs or egg yolks, chopped scallions.
+88	Khubz	Flatbread	Medium-size yeast bread made with whole wheat flour, with a hollow pocket in the center.
+89	Kifli	Yeast bread	Similar to a bagel, but the dough starts as a wedge and is rolled into a crescent shape rather than a circle – or sometimes into a straight stick. The kipferl is usually given an egg wash and sprinkled with either poppy seeds or caraway seeds mixed with coarse salt.
+90	Kisra	Flatbread	Popular fermented bread made of sorghum (durra) or wheat
+91	Kulcha	Flatbread	Made of maida flour dough, mashed potatoes, onion (optional), lots of spices, rolled into flat round shape, baked until golden brown, usually rubbed with butter, eaten with spicy chickpea curry.
+92	Lagana	Crispy bread	Special kind of azyme bread, baked only on Clean Monday, the first day of Lent. Not to be confused with lasagna.
+93	Lahoh	Leavened	Spongy, pancake-like, dough of plain flour, self-raising flour, warm water, yeast, pinch of salt.
+94	Laobing	Flatbread	Unleavened, sometimes called a "Chinese pancake", very much like Indian chapati, can be size of a large pizza, about one centimeter thick, doughy and chewy texture, made by pan frying thick unleavened batter made of salt, flour, water.
+95	Lavash	Flatbread	Soft, thin, dough is rolled out flat, flexible when fresh, easier to use for wrap sandwiches, dries fast and grows brittle and hard, for long storage. A traditional dish of Armenian cuisine. In 2014, "lavash, the preparation, meaning and appearance of traditional bread as an expression of culture in Armenia" was inscribed in the UNESCO Representative List of the Intangible Cultural Heritage of Humanity.[5]
+96	Lefse	Flatbread	Soft, made of potato, milk or cream (or sometimes lard), flour, cooked on a griddle.
+97	Malooga	Flatbread	Pizza-like dough (flour, water, yeast, salt) kneaded well, risen, cut to large rounds, stretched, repeatedly warm ghee spread on dough as it is folded, round is stretched into flat round form, baked in tandoor-like oven.
+98	Maltese bread	Sourdough	Traditional Maltese bread originating in Qormi, often served with tomato paste and olive oil.
+99	Mantou	Bun	Steamed, made of white flour, often slightly sweetened.
+100	Markook	Flatbread	Usually large, round, about 2 feet, thin, almost translucent, dough is flattened, kept thin before cooking, baked on a saj, a domed-convex metal griddle.
+101	Marraqueta	Leavened, lobed loaf	Kneaded, made with flour, salt, water, and leavening.
+102	Matzo	Flatbread	Unleavened, used in Judaism mainly during Passover.
+103	Melonpan	Sweet bun, Crispy	Made of enriched dough covered in thin layer of crispy cookie dough.
+104	Miche	Leavened	Rounded loaf, often sourdough based.
+105	Michetta	Leavened	Also known as rosetta, it has a hollow, bulging shape.
+106	Milk Loaf, Milk Bread, Milk roll	Leavened	Soft white bread, sometimes baked in loaf tin with circular cross-section; recipe includes milk.[6][7]
+107	Mollete	Flatbread, White	A soft white bread, often served toasted with oil and garlic or lard.
+108	Montreal-style bagel	Yeast bread	A bagel that is boiled in honey-sweetened water and then baked in a wood-fired oven. It is smaller and denser and uniquely incorporates egg and honey in the dough.
+109	Naan	Flatbread	A leavened and oven-baked flatbread, typical and popular in South, Central, and West Asia. Noted for its cooking in a tandoor.
+110	Ngome	Flatbread	Made of millet, water, and vegetable oil.
+111	Obwarzanek krakowski	Yeast bread	A ring-shaped bread product made of strands of dough twisted into a spiral that is boiled and sprinkled with salt, poppy seeds, sesame seeds, etc., before being baked
+112	Pain de mie or Pancarré	White	Slightly sweet sandwich-style loaf with a dense crumb.
+113	Pain d'Epi	Yeast bread	Similar to a French baguette, but cut to resemble an ear of grain.
+114	Pan dulce	Sweet bread	A bread that is one of the poster treats in Mexico and other Latin American countries.
+115	Panbrioche	Leavened	A bread similar to brioche.
+116	Pandesal	Sweet bread	A rounded bread made of flour, eggs, yeast, sugar, and salt.
+117	Pandoro	Holiday bread	Traditional sweet yeast loaf, most popular around Christmas and New Year, typically Veronese, usually shaped like a frustum with 8 pointed-star section, often served dusted with vanilla scented icing sugar made to resemble the snowy peaks of the Italian Alps in winter.
+118	Pane carasau	Flatbread	Traditional flatbread, thin, crisp, usually in form of a dish half a meter wide, made by taking baked flatbread, splitting it in two sheets that are re-baked, recipe is ancient for shepherds who used to stay far from home for months, can last up to one year if kept dry.
+119	Pane di Altamura	Leavened	Made from durum flour, often odd in shape.
+120	Pane ticinese	Leavened, White	White, distinguished by its shape and softness, made of several small sub-loaves or rolls to be broken off by hand, with oil added to dough, which makes it soft.
+121	Panettone	Sweet bread	Fluffy, base round, octagon or star section, takes days to make to cure acidic dough like sourdough, contains candied citrus, raisins, sliced vertically, served with cider or champagne, esp. for Christmas, New Year.
+122	Panfocaccia	Leavened	A bread similar to focaccia.
+123	Papadum or Papad	Flatbread	Thin, crisp, and cracker-like, served with meal, as appetizer, as final item in meal, or as snack, eaten with various toppings: chopped onions, chutney, other dips and condiments.
+124	Paratha	Flatbread	Unleavened, made by pan frying whole wheat dough, ghee or cooking oil usually in dough and on done loaves, usually stuffed with vegetables or cheese, served with butter, chutney, spicy sauces or curries of meat and vegetables.
+125	Parotta or Barotta	Flatbread	A common layered flatbread of Southern India. This is not to be confused with the North Indian Paratha. Parottas are usually available in restaurants and road side shops across Kerala, Karnataka, Tamil Nadu, southern Coastal Andhra and the Middle East.
+126	Paximathia	Dry bread	Also referred to as "rusks", it is prepared with whole wheat, chick pea, or barley flour, and is a common bread in Greece.
+127	Penia	Sweet bread	Made from sugar, butter, eggs, anise seeds and lemons.
+128	Piadina	Flatbread	Thin, usually made in Romagna region with white flour, lard or olive oil, salt, water, dough traditionally cooked on terra cotta dish, today flat pans or electric griddles are more common.
+129	Pistolet	Leavened	Round and small, traditionally filled with butter and jam for Sunday morning breakfast
+130	Pita	Flatbread	Round with inner pocket, as it cooks, steam puffs up dough, as it cools and flattens a pocket is left in the middle.
+131	Pizza	Leavened Flatbread with toppings	A round, flattened base of leavened wheat-based dough, topped with tomatoes, cheese, and various other ingredients that is baked at a high temperature, traditionally in a wood-fired oven. First recorded in the 10th century it has become one of the most popular foods in the world and a common fast food item in Europe and North America.
+132	Pogača	Flatbread	Generally made from wheat flour, but barley and sometimes rye may be added. Can be stuffed with potatoes, ground beef, or cheese, and have grains and herbs like sesame, black sesame, dried dill in the dough or sprinkled on top.
+133	Portuguese sweet bread	Sweet bread	Round, made with milk, sugar or honey, subtly sweet lightly textured loaf, traditionally made for Christmas and Easter times (when hard boiled eggs often baked in), today made year round.
+134	Potato bread	Leavened or unleavened	Potato replaces part of usual wheat flour, ratio of potato to wheat varies much, leavened or unleavened, may have many other ingredients baked in, varied cooking methods.
+135	Potato pancake	Pancake	Shallow-fried pancakes of grated or ground potatoes, flour and eggs, often flavored with grated onions or garlic and seasoning. They may be topped with a variety of condiments, ranging from the savory (such as sour cream or cottage cheese) to the sweet (such as apple sauce or sugar), or they may be served ungarnished. They are sometimes made from mashed potatoes to produce pancake-shaped croquettes.
+136	Potbrood	Leavened	Produced in a cast iron pot covered with wood coals, there are a wide range of flavors but is often made with wheat flour and sweetcorn.
+137	Pretzel	Dry bread	Alemannic knot-shaped bread, sometimes soft, sometimes hard, sometimes sweet, sometimes salty.
+138	Proja	Cornbread	Small muffins or loaves of cornbread, was popular in times of widespread poverty, now is a common everyday meal.
+139	Pumpernickel	Rye	Very heavy, dense, slightly sweet dark pure rye traditionally made with coarsely ground flour; now often made with mixed flour and whole grain berries.
+140	Puran Poli, also called Obbatu, Bobbatlu, Bakshalu	Flatbread	Sweet dessert served for special occasions and festivals, stuffing of boiled chickpea lentils, turmeric, sugar, jaggery and spices, cooked on hot griddle, served with milk or ghee and lentil broth soup.
+141	Qistibi	Flatbread	Roasted flatbreads with various fillings inside. The dough should be non-fermented. The most popular filling is mashed potato, but it may also be ragout or millet. Filling is placed on the one half of the flatbread and is covered by the other half. Later, clarified butter is spread on the flatbreads.
+142	Quick bread	Leavened	Leavened with substance other than yeast.
+143	Rewena bread	Sourdough	A round loaf made with a potato-based sourdough culture.
+144	Rice bread	Rice bread	Made from rice flour.
+145	Rieska	Flatbread	Unleavened, commonly made from barley or potato.
+146	Roti	Flatbread	Unleavened, made from stone ground wholemeal flour, traditionally named atta flour.
+147	Rugbrød	Sourdough	Made of rye and wheat flour or up to 1/3 whole rye grains may have whole seeds, usual sourdough base, low fat, no oil or flavoring but salt, high fiber, little or no sugar, usually long brown rectangle.
+148	Rumali Roti	Flatbread	Rumali in Hindi means handkerchief or napkin. This flatbread is thin and soft like a handkerchief. It is made with maida flour (highly refined wheat flour).
+149	Ryaninjun	Leavened	Brown bread made from rye flour and cornmeal and baked on oak or cabbage leaves, made by the Puritans in New England during the seventeenth and eighteenth centuries. The name is derived from "rye and Indian."[8]
+150	Rye bread	Leavened	Made of various fractions of rye grain flour, color light to dark via flour used and if colors added, usually denser and higher fiber than many common breads, darker color, stronger flavor.
+151	Sacramental bread	Crispy bread	Ceremonial bread used in the Christian Eucharist ritual.
+152	Salt-rising bread	Leavened	Made of wheat flour, starter of liquid (water or milk), either corn, potatoes, or wheat, and some other minor ingredients; result has dense crumb and positive cheese-like flavor.
+153	Samoon	Yeast bread	It is baked in traditional stone ovens, like pizza. Usually served with a variety of foods such as Hummus, Kebab, Shawarma.
+154	Sangak	Sourdough	Plain, rectangular, or triangular, whole wheat sourdough, usually two types: generic no toppings and costlier topped with poppy or sesame seeds.
+155	Scone	Quick bread	Small quick bread usually made of wheat, barley or oatmeal, baking powder leavening.
+156	Sgabeo	Leavened	Cut into strips, fried and salted.
+157	Shirmal	Flatbread	Saffron-flavored traditional flatbread, usually made with milk instead of water.
+158	Shoti	Yeast bread	Made of white flour and shaped like a canoe rowboat baked in tandoor. Shoti is pictured in the center of the image.
+159	Soda bread	Soda bread	A variety of quick bread traditionally made in a variety of cuisines in which sodium bicarbonate (otherwise known as baking soda) is used as a raising agent rather than the more common yeast. The ingredients of traditional soda bread are flour, bread soda, salt, and buttermilk. The buttermilk in the dough contains lactic acid, which reacts with the baking soda to form tiny bubbles of carbon dioxide. Other ingredients can be added such as raisins, egg or various nuts.
+160	Sourdough bread	Sourdough	A bread product made by a long fermentation of dough using naturally occurring lactobacilli and yeasts. In comparison with breads made quickly with cultivated yeast, it usually has a mildly sour taste because of the lactic acid produced by the lactobacilli.
+161	Speckendick	Pancake	A rye pancake made between two iron plates, filled with lard or bacon, dried sausage and a little syrup.
+162	Spelt bread	Yeast bread	Made mainly with spelt flour or coarse meal.
+163	Sprouted bread	Sprouted	A type of bread made from sprouted (germinated) whole grains
+164	Taboon bread or Laffa	Flatbread	Taboon is a wrap used in many cuisines. This type of flatbread is traditionally baked in a Tabun oven and eaten with different fillings.
+165	Taftan	Leavened	Leavened flour bread with saffron and small amount of cardamom powder baked in a clay oven.
+166	Tandoor bread	Flatbread	A type of bread baked in a clay oven that is called a tandoor.
+167	Teacake	Sweet bun	Fruited sweet bun usually served toasted and buttered.
+168	Texas toast	Toast, White	A type of packaged bread (not sold toasted as the name implies) which is sold sliced at double the typical thickness of most sliced breads. While it can be used in the same manner as ordinary bread slices such as in sandwiches, it is especially useful for dishes involving liquids, such as barbecue sauce, or where extra thickness can improve the product, such as French toast. It is typically a white bread.
+169	Tiger bread	Rice bread	Rice paste bread made with sesame oil and with a pattern baked into the top made by painting rice paste onto the surface prior to baking. The paste dries and cracks during the baking process, creating a two-colour effect similar to a tiger's markings, hence the name.
+170	Tortilla	Flatbread	Thin flatbread made from finely ground wheat flour. Originally derived from the corn tortilla (tortilla in Spanish means "small torta", or "small cake"), a bread of maize which predates the arrival of Europeans to the Americas, the wheat flour tortilla was an innovation after wheat was brought to the New World from Spain while this region was the colony of New Spain. It is made with an unleavened, water based dough, pressed and cooked like corn tortillas.
+171	Tsoureki	Leavened	Sweet bread formed of braided strands of dough; may also be savory.
+172	Ttongppang	Pancake	Korean bread sold at street markets. It has a unique shape of human feces. It is filled with red bean paste with walnut kernel and sold for about ₩1,000.
+173	Tunnbröd	Flatbread	Soft (used as wrap for other food), or crisp (used with fermented herring), many variants depending on type of grain (any mix of wheat, barley, rye), leavening agent (or lack), and rolling pin.
+174	Vánočka	Leavened	Baked traditionally at Christmastime. It is rich in eggs and butter, making it similar to brioche. Lemon rind and nutmeg add color and flavor; the dough can also contain raisins and almonds, and is braided like challah.
+175	Vienna bread	Leavened	Produced from a process using high milling of Hungarian grain, cereal press-yeast for leavening, and care and thought in the production process.
+176	White bread	White	Made from wheat flour from which the bran and the germ have been removed through a process known as milling.
+177	Whole wheat bread	Leavened	Made using flour which is partly or entirely made from whole or almost whole wheat grains.
+178	Yufka	Flatbread	Thin, round, unleavened, similar to lavash, about 18 inches (40–50 cm) wide, usually made of wheat flour, water, table salt, has low moisture content, depending on how low this is, a long shelf life.
+179	Zopf	Leavened, White	Made of white flour, milk, egg, butter, yeast, dough is braided, brushed with egg yolk before baking, forming a gold crust.
+180	Zwieback	Crispy sweet bread	Crisp, sweetened bread, made with eggs and baked twice. It is sliced before it is baked a second time, which produces crisp, brittle slices that closely resemble melba toast.

@@ -1,0 +1,29 @@
+{
+  "Token": "",
+  "Logging": {
+    "Level": "trace",
+    "Format": "text",
+    "Output": "stderr",
+    "Logfile": ""
+  },
+  "Guilds": {
+    "123456789012345678": {
+      "GuildName": "DerpGuild",
+      "RoleAdmin": "",
+      "CommandPrefix": ".",
+      "KeywordsEnabled": false,
+      "Players": {
+        "123456789012345678": {
+          "PlayerString": "Derp#1234",
+          "PlayerUsername": "asdfasdfasdf",
+          "PlayerMention": "@123456789012345678",
+          "Keywords": [
+            "key1",
+            "key2"
+          ],
+          "KeywordsEnabled": false
+        }
+      }
+    }
+  }
+}
